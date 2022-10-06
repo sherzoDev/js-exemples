@@ -2,6 +2,7 @@ var elForm = document.querySelector("#form");
 var elInput = document.querySelector(".form-control");
 var elAlert = document.querySelector(".alert");
 
+debugger;
 elForm.addEventListener("submit", function (even) {
   even.preventDefault();
   var inputValue = Number(elInput.value);
