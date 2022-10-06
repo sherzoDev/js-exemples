@@ -12,5 +12,5 @@ var tripCost = planeCost * oneDollar + hotelCost * oneDollar + museumCost * oneE
 if (tripMoney >= tripCost) {
   alert("Oq yo'l Alisher mazza qilib aylanib qiling!");
 } else {
-  alert("Ozgina sabr qilib pul yig'ing!")
+  alert("Ozgina sabr qilib pul yig'ing!");
 }
