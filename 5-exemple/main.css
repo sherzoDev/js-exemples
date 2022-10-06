@@ -1,0 +1,28 @@
+.form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.form-control {
+  width: 400px;
+  height: 50px;
+}
+
+.form-select {
+  width: 400px;
+  height: 50px;
+}
+
+.alert {
+  width: 400px;
+  height: 50px;
+}
+
+.alert-span {
+  color: #fff;
+}
+
+.btn {
+  display: block;
+}
